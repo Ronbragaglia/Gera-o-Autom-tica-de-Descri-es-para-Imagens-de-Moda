@@ -11,7 +11,7 @@ transformers para o uso do modelo GPT-2, que é uma implementação do Transform
 numpy para manipulação de arrays.
 matplotlib para visualização das imagens.
 
-arregamento e Pré-processamento dos Dados:
+Carregamento e Pré-processamento dos Dados:
 
 O dataset Fashion MNIST é carregado e normalizado, o que é uma boa prática para melhorar o desempenho do modelo.
 As imagens são expandidas para incluir uma dimensão de canal (grayscale), necessário para a entrada da CNN.
