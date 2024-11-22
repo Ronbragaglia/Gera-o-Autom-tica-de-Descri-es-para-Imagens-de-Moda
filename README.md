@@ -35,4 +35,9 @@ Visualização e Previsão:
 A função describe_image exibe a imagem, faz a previsão da classe e imprime a descrição gerada.
 A visualização da imagem antes de apresentar a descrição é uma boa prática, pois ajuda a contextualizar a saída do modelo.
 
+![image](https://github.com/user-attachments/assets/1449d6f1-af49-4ce2-9c86-34c2f823ef82)
+
+![image](https://github.com/user-attachments/assets/9cca1652-419e-4e72-ba60-7beaedf12e91)
+
+
 
